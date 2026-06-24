@@ -14,7 +14,7 @@ Não rode APIs de WhatsApp localmente ou em PM2 se quiser escala. Use esta arqui
 1. Instale o Docker e o Docker Compose no Ubuntu.
 2. Clone este repositório e entre na pasta:
    ```bash
-   git clone https://github.com/SEU_USUARIO/whatsapp-saas-docker-stack.git
+   git clone https://github.com/mariovolochen/whatsapp-saas-docker-stack.git
    cd whatsapp-saas-docker-stack
    ```
 3. Edite as variáveis no `docker-compose.yml` (Troque as senhas e a URL global!).
